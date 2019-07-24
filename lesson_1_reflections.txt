@@ -1,0 +1,21 @@
+It helped me quite a lot. It made the work a whole lot easier.
+
+It makes finding right where the changes were made a lot easier.
+
+It will help me revert back to a working version in case any change in the code messes up my entire code
+
+Pros:
+1. Helps choose when to commit.
+2. Committing only when there are logical changes is easier.
+
+Cons:
+1. Bad if I forget to commit.
+
+Saving related files together will help a lot in coding projects.
+
+git log displays commit id along with commit message and date and time.
+git diff 1stfile 2ndfile displays difference between those files.
+
+Using version control will make me fearless about trying new changes in my app.
+
+I want to try using git for Android Development
