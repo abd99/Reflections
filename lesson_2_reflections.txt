@@ -21,3 +21,8 @@ When we try new features which we aren't sure about and maybe a new category/the
 How do the diagrams help you visualize the branch structure?
 
 The branches helps us to keep the entire structure of the repository in mind.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches allows us to combine work of two types or two people. Because it follows hierarchical structure. 
