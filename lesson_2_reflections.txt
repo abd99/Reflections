@@ -25,4 +25,14 @@ The branches helps us to keep the entire structure of the repository in mind.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-Merging two branches allows us to combine work of two types or two people. Because it follows hierarchical structure. 
+Merging two branches allows us to combine work of two types or two people. Because it follows hierarchical structure.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros:
+-Makes merging easier.
+-We don't have to find out the conflicts ourselves.
+
+Cons:
+-Can be difficult when the commits are not done on the ideal time.
