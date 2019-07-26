@@ -16,3 +16,8 @@ By comparing it to the previous commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When we try new features which we aren't sure about and maybe a new category/theme. Branches would help in trying out these changes without any fear and at the same time keeping the master i.e the main file intact.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The branches helps us to keep the entire structure of the repository in mind.
