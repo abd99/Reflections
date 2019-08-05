@@ -21,3 +21,8 @@ You can work offline and it saves a lot of data overhead when pushing changes to
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would use e-mails and dropbox. It would be simpler to send as I don't have to learn Git and it would be difficult to maintain different versions.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to add a new feature and I'm not sure whether it'll work fine and I want to keep things separate. Using separate branches makes the master stay cleaner but at the same time it is difficult to merge changes.
